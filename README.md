@@ -33,12 +33,12 @@ Tal vez, también podemos decir que es un ejemplo de remediación porque antes s
 
 
 ## Bibliografia
-Anon, 2017. Información sobre Geometry Dash. Cibercarba. Available at: https://cibercarba.es/videojuegos-y-apps/informacion-sobre-geometry-dash/#:~:text=Geometry%20Dash%20
-Anon, 2022. Geometry dash. Wikipedia. Available at: https://es.wikipedia.org/wiki/Geometry_Dash
-Anon, Geometry dash &gt; información, Biografia, archivo, Historia. WIKIDAT. Available at: https://es.wikidat.com/info/geometry-dash
-Anon, 2021. Como poner una cancion de newgrounds al geometry dash (Para Celular). YouTube. Available at: https://www.youtube.com/watch?v=sWDlzqAh4r0
-Anon, Geometry dash. GeometryPedia. Available at: https://geometry-dash.fandom.com/es/wiki/Geometry_Dash#Otras_caracter.C3.ADsticas
-Anon, 2020. Descubre el Origen de Spotify: Una Empresa Destinada al éxito. ThePower Business School. Available at: https://www.thepowermba.com/es/blog/el-exito-de-spotify#:~:text=Spotify%20naci%C3%B3%20en%202008%20como,canciones%20sin%20tener%20que%20descarg%C3%A1rselas
-Montoya, P.L., 2019. Spotify. Historia y biografía de. Available at: https://historia-biografia.com/spotify/
-Xxxxx, Historia Spotify. El poder de la comunicación. Available at: https://elpoderdelacomunicacion4.blogspot.com/2017/04/historia-spotify.html
-Pocket-lint, 2022. ¿Qué es spotify y cómo funciona? Pocket. Available at: https://www.pocket-lint.com/es-es/aplicaciones/noticias/spotify/139236-que-es-spotify-y-como-funciona
+* Anon, 2017. Información sobre Geometry Dash. Cibercarba. Available at: https://cibercarba.es/videojuegos-y-apps/informacion-sobre-geometry-dash/#:~:text=Geometry%20Dash%20
+* Anon, 2022. Geometry dash. Wikipedia. Available at: https://es.wikipedia.org/wiki/Geometry_Dash
+* Anon, Geometry dash &gt; información, Biografia, archivo, Historia. WIKIDAT. Available at: https://es.wikidat.com/info/geometry-dash
+* Anon, 2021. Como poner una cancion de newgrounds al geometry dash (Para Celular). YouTube. Available at: https://www.youtube.com/watch?v=sWDlzqAh4r0
+* Anon, Geometry dash. GeometryPedia. Available at: https://geometry-dash.fandom.com/es/wiki/Geometry_Dash#Otras_caracter.C3.ADsticas
+* Anon, 2020. Descubre el Origen de Spotify: Una Empresa Destinada al éxito. ThePower Business School. Available at: https://www.thepowermba.com/es/blog/el-exito-de-spotify#:~:text=Spotify%20naci%C3%B3%20en%202008%20como,canciones%20sin%20tener%20que%20descarg%C3%A1rselas
+* Montoya, P.L., 2019. Spotify. Historia y biografía de. Available at: https://historia-biografia.com/spotify/
+* Xxxxx, Historia Spotify. El poder de la comunicación. Available at: https://elpoderdelacomunicacion4.blogspot.com/2017/04/historia-spotify.html
+* Pocket-lint, 2022. ¿Qué es spotify y cómo funciona? Pocket. Available at: https://www.pocket-lint.com/es-es/aplicaciones/noticias/spotify/139236-que-es-spotify-y-como-funciona
