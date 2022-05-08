@@ -8,6 +8,7 @@ Data:
 ## Plantejament
 Hoy en día vivimos en una sociedad donde los nuevos medios han ido evolucionando. En la anterior práctica trabajamos  la transcodificación y la remediación según Lev Manovich, mientras que ahora trabajaremos el concepto de hibridación mediante dos ejemplos muy claros para entender el significado de esta palabra.
 Antes de todo, refrescaremos la definición de transcodificación y remediación mediante un ejemplo ya que nos ayudara en este trabajo. Un ejemplo de remediación sería el paso de escribir algo a alguien mediante el envío de una carta a poder hacer lo mismo, pero desde una plataforma digital como es Gmail. Por otro lado, tenemos la transcodificación, que, siguiendo el mismo ejemplo, significa digitalizar los viejos medios, donde a través de un software podemos convertir el contenido de una carta a una computadora. Por último, la hibridación, que se entiende como un proceso de remediación, es decir, de fusión de los medios, que sobrepasa el simple concepto de multimedia.
+
 Hay una única diferencia que destaca entre el resto y distingue un concepto del otro. La multimedia se compone por un conjunto de recursos los cuáles para que sean reproducidos hay que abrirlos de uno en uno. Un ejemplo claro sería si estamos jugando a un videojuego y para escuchar música a la vez tengo que abrir el reproductor de música del móvil. En cambio, la hibridación es todo lo contrario, donde ambos elementos se fusionan en uno único. Gracias a la hibridación, la experiencia del usuario es totalmente diferente y permite que éste saque más provecho al programa.
 A continuación, explicaré dos casos bastante claros de hibridación donde el tema principal es la música. Estos son Spotify y el videojuego Geometry Dash.
 
@@ -20,6 +21,8 @@ El *streaming* se define como cualquier contenido multimedia que se puede reprod
 
 ¿Por qué Spotify como ejemplo de hibridación? Las personas que conocen un poco por encima qué es Spotify dirán que es una plataforma digital que sólo sirve para reproducir música des de un dispositivo portátil como es el móvil. Pero, la realidad actual es que este *software* tan popular ha añadido hará poco tiempo varias funciones que permiten hacer dos cosas a la vez. Esta función es la de escuchar música mientras lees la letra (modo karaoke), que permite que el usuario pueda ver la letra de las canciones en tiempo real mientras se reproduce el tema. Por lo tanto, gracias a la fusión de estos dos elementos, el consumidor puede disfrutar de dos experiencias a la vez sumergiéndose en su música. Según algunas encuestas y reseñas, a un amplio grupo de usuarios les ha parecido una muy buena actualización y muy positiva para el funcionamiento de la plataforma ya que muchas personas lo estaban pidiendo a gritos.
 
+Por experiencia personal, creo que Spotify esta logrando el éxito gracias a las novedades que publica día a día. De esta manera, nos tiene enganchados a más de 400 millones de usuarios que frecuentamos a escuchar sus playlists durante el día. Finalmente, me gustaría añadir que si esta comunidad sigue creciendo, se acabará convirtiendo en la mayor plataforma de streaming musical del mundo.
+
 ## Cas 2: Geometry Dash
 Otro ejemplo de hibridación es el famoso juego Geometry Dash. Este juego fue creado por Robert Topala (nombre artístico Robtop) y fue publicado el 13 de agosto de 2013 para móviles y el 22 de diciembre de 2014 ya estaba disponible para ordenadores.
 
@@ -31,6 +34,8 @@ Geometry Dash utiliza colores eléctricos por lo que poner música electrónica 
 
 
 Tal vez, también podemos decir que es un ejemplo de remediación porque antes si querías escuchar una canción en concreto mientras jugabas, debías de usar dos plataformas diferentes, como por ejemplo YouTube, mientras que ahora, con este avance tecnológico, podemos hacer dos cosas en una.
+
+Por experiencia personal, creo que Geometry Dash era bastante bueno en su día ya que fue de los primeros juegos para dispositivos móviles donde la música se reproduce al compás de la interacción del usuario con el videojuego. Actualmente, muchos desarrolladores de videojuegos están creando siguiendo este modelo exitoso y que tanto atrae al público.
 
 
 ## Bibliografia
