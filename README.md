@@ -3,7 +3,7 @@ PAC3_Manovich_Reloaded Cultura Digital Adrián Román Martin (UOC)
 
 Adrián Román Martin
 
-Data:
+15/05/2022
 
 ## Plantejament
 Hoy en día vivimos en una sociedad donde los nuevos medios han ido evolucionando. En la anterior práctica trabajamos  la transcodificación y la remediación según Lev Manovich, mientras que ahora trabajaremos el concepto de hibridación mediante dos ejemplos muy claros para entender el significado de esta palabra.
